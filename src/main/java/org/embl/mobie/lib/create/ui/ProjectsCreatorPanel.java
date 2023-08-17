@@ -46,8 +46,8 @@ import net.imglib2.realtransform.AffineTransform3D;
 import org.apache.commons.io.FilenameUtils;
 import org.embl.mobie.io.ImageDataFormat;
 import org.embl.mobie.io.SpimDataOpener;
+import org.embl.mobie.io.n5.shaded.Compression;
 import org.embl.mobie.io.util.IOHelper;
-import org.janelia.saalfeldlab.n5.Compression;
 
 import javax.swing.*;
 import java.awt.*;
